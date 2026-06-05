@@ -79,6 +79,23 @@ Go to the mod menu to toggle the display and color on behavior names.
 
 <br>
 
+## [Debug Readouts](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/debug-readouts)
+
+<img src=".res/debug-readouts.png" alt="debug-readouts.png" width="500"/>
+
+Author: **IncredibleHolc**
+
+> A paginated display tool that shows on-screen information about Mario, the camera and the level, as well as stick and button inputs.
+
+Press <kbd>L</kbd> + <kbd>D ←</kbd> or <kbd>D →</kbd> to change the current page:
+- *Player stats*: Describe Mario's position, velocity, angle, health, action and animation.
+- *Camera stats*: Describe the camera state, position, angle and distance.
+- *Level stats*: Describe the current level, course, area, BGM and some collision related info.
+
+Go to the mod menu to change the position of the display and the text color.
+
+<br>
+
 ## [Beard's Mod](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/beards-mod)
 
 <img src=".res/beards-mod.png" alt="beards-mod.png" width="500"/>

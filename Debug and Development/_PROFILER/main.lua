@@ -1,4 +1,4 @@
--- name: \\#F00\\* \\#888\\Deep Lua Profiling \\#000\\[WIP]
+-- name: \\#F00\\* \\#888\\Deep Lua Profiling
 -- description: Deep Lua Profiling
 
 local function prof()
