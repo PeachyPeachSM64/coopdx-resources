@@ -10,7 +10,7 @@ The following mods are a collection of tools to make debugging easier.
 
 <br>
 
-## King's Devtools
+## [King's Devtools](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/kings-devtools)
 
 Author: **King the memer**
 
@@ -23,7 +23,7 @@ Press <kbd>D →</kbd> to toggle the wing/vanish/metal cap.
 
 <br>
 
-## No Clip
+## [No Clip](https://github.com/PeachyPeachSM64/coopdx-resources/blob/master/Debug%20and%20Development/noclip.lua)
 
 Author: **AgentX**
 
@@ -36,7 +36,7 @@ Press <kbd>L</kbd> to exit No-clip mode.
 
 <br>
 
-## Hitbox Display
+## [Hitbox Display](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/debug-box)
 
 <img src=".res/hitbox-display.png" alt="hitbox-display.png" width="500"/>
 
@@ -51,7 +51,7 @@ Go to the mod menu to enable different boxes:
 
 <br>
 
-## Surface Display
+## [Surface Display](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/debug-surface)
 
 <img src=".res/surface-display.png" alt="surface-display.png" width="500"/>
 
@@ -67,7 +67,7 @@ Go to the mod menu to enable different surfaces:
 
 <br>
 
-## Behaviors on Screen
+## [Behaviors on Screen](https://github.com/PeachyPeachSM64/coopdx-resources/blob/master/Debug%20and%20Development/behaviors-on-screen.lua)
 
 <img src=".res/behaviors-on-screen.png" alt="behaviors-on-screen.png" width="500"/>
 
@@ -79,7 +79,7 @@ Go to the mod menu to toggle the display and color on behavior names.
 
 <br>
 
-## Beard's Mod
+## [Beard's Mod](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/beards-mod)
 
 <img src=".res/beards-mod.png" alt="beards-mod.png" width="500"/>
 
@@ -106,7 +106,7 @@ This mod uses chat commands:
 
 <br>
 
-## Anim Tester
+## [Anim Tester](https://github.com/PeachyPeachSM64/coopdx-resources/blob/master/Debug%20and%20Development/anim-tester.lua)
 
 <img src=".res/anim-tester.png" alt="anim-tester.png" width="500"/>
 
@@ -127,7 +127,7 @@ In this state, you can:
 
 <br>
 
-## Deep Lua Profiling
+## [Deep Lua Profiling](https://github.com/PeachyPeachSM64/coopdx-resources/tree/master/Debug%20and%20Development/_PROFILER)
 
 Author: **djoslin0**
 
